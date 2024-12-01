@@ -1,5 +1,3 @@
-
-
 class Solution {
     int[] kLargest(int[] arr, int n, int k) {
         Arrays.sort(arr);
